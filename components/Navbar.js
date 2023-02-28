@@ -25,7 +25,6 @@ const Navbar = () => {
             </h1>
 
             <style jsx>
-              {" "}
               {`
                 .profilePic {
                   height: 100px;
